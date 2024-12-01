@@ -89,7 +89,7 @@ I am a student, currently studying at Vellore Institute of Technology. 🧠
 
 ## Reach me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bala-ganesh-golla-495a95279/) 
-[![Mail](https://img.shields.io/badge/-ganeshgolla2019@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/bala-ganesh-golla-495a95279/)](mailto:ganeshgolla2019@gmail.com)
+[![Mail](https://img.shields.io/badge/-ganeshgolla2019@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/bala-ganesh-golla-495a95279/)](mailto:balaganeshgolla70@gmail.com)
 
 
 
