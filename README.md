@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bala Ganesh</h1>
 
 ## About me :mortar_board:
-I am a student, currently studying at Vellore Institute of Technology. 🧠
+I am a recently graduated student from Vellore Institute of Technology. 🧠
 
 
 ## What I know :computer:
