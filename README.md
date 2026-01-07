@@ -47,9 +47,7 @@ I am an AI/ML enthusiast and graduate from **Vellore Institute of Technology**, 
 <tr>
 <td align="center"><strong>TensorFlow</strong><br/><img height="60" src="https://cdn.svgporn.com/logos/tensorflow.svg"></td>
 <td align="center"><strong>Keras</strong><br/><img height="60" src="https://cdn.svgporn.com/logos/keras.svg"></td>
-  <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg">
 <td align="center"><strong>Scikit-learn</strong><br/><img height="60" src="https://cdn.svgporn.com/logos/scikit-learn.svg"></td>
-  <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
 <td align="center"><strong>PyTorch</strong><br/><img height="60" src="https://cdn.svgporn.com/logos/pytorch.svg"></td>
 <td align="center"><strong>OpenCV</strong><br/><img height="60" src="https://cdn.svgporn.com/logos/opencv.svg"></td>
 </tr>
