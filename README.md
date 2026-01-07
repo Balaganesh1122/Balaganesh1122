@@ -1,107 +1,89 @@
 <h1 align="center">Hi 👋, I'm Bala Ganesh</h1>
 
-## About me :mortar_board:
-I am a recently graduated student from Vellore Institute of Technology. 🧠
+## 👨‍🎓 About Me :mortar_board:
+I am an AI/ML enthusiast and graduate from **Vellore Institute of Technology**, with hands-on experience in machine learning, deep learning, and data analysis through academic projects and internships.
 
+---
 
-## What I know :computer:
-- Programming Languages (Data Structures & Algorithms)
-	<div align="left">
-		<table>
-			<tbody>
-				<tr>
-					<td width="25%" align="center">
-						<span><strong>Python</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/python.svg">
-					</td>
-					<td width="25%" align="center">
-						<span><strong>C++</strong></span><br/>
-						<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">
-					</td>
-          <td width="25%" align="center">
-						<span><strong>C language</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/c.svg">
-					</td>
-					<td width="25%" align="center">
-						<span><strong>Java</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/java.svg">
-					</td>
-          <td width="25%" align="center">
-						<span><strong>Javascript</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-					</td>
-				</tr>
-			</tbody>
-		</table>
-	</div>
-- Frontend Development
+## 🧠 Skills & Technologies :computer:
+
+### 🔹 Programming Languages
 <div align="left">
-		<table>
-			<tbody>
-				<tr>
-					<td align="center">
-						<span><strong>HTML</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-					</td>
-					<td align="center">
-						<span><strong>CSS</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-					</td>
-					<td align="center">
-						<span><strong>Javascript</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-					</td>
-				</tr>
-			</tbody>
-		</table>
+<table>
+<tr>
+<td align="center"><strong>Python</strong><br/><img height="60" src="https://cdn.svgporn.com/logos/python.svg"></td>
+<td align="center"><strong>Java</strong><br/><img height="60" src="https://cdn.svgporn.com/logos/java.svg"></td>
+<td align="center"><strong>SQL</strong><br/><img height="60" src="https://cdn.svgporn.com/logos/mysql.svg"></td>
+</tr>
+</table>
 </div>
-	
-- Backend Development
-	<div align="left">
-		<table>
-			<tbody>
-				<tr>
-					<td width="25%" align="center">
-						<span><strong>Node JS</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
-					</td>
-					<td width="25%" align="center">
-						<span><strong>Express</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/express.svg">
-					</td>
-					<td width="25%" align="center">
-						<span><strong>MongoDB</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
-					</td>
-					<td width="25%" align="center">
-						<span><strong>Mongoose</strong></span><br/>
-						<img height="64px" width="64px" src="https://tse3.mm.bing.net/th?id=OIP.eAsvrVxjjd2WbCSj4rVbyQHaEv&pid=Api&P=0&h=180">
-					</td>
-				</tr>
-			</tbody>
-		</table>
-	</div>
 
-## What I want to do next :thinking:
-- Dive into AI and ML and Depth in Data Structures and Algorithms  
-- DevOps
-- Qualify for GSOC 
+---
 
-## Reach me 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bala-ganesh-golla-495a95279/) 
-[![Mail](https://img.shields.io/badge/-balaganeshgolla70@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/bala-ganesh-golla-495a95279/)](mailto:balaganeshgolla70@gmail.com)
+### 🔹 AI & Machine Learning
+- Regression & Classification  
+- Clustering Techniques  
+- Natural Language Processing (NLP)  
+- Deep Learning: **ANN, CNN, RNN, LSTM**  
+- Model Training, Evaluation & Optimization  
 
+---
 
+### 🔹 Frameworks & Libraries
+<div align="left">
+<table>
+<tr>
+<td align="center"><strong>TensorFlow</strong><br/><img height="60" src="https://cdn.svgporn.com/logos/tensorflow.svg"></td>
+<td align="center"><strong>Keras</strong><br/><img height="60" src="https://cdn.svgporn.com/logos/keras.svg"></td>
+<td align="center"><strong>Scikit-learn</strong><br/><img height="60" src="https://cdn.svgporn.com/logos/scikit-learn.svg"></td>
+<td align="center"><strong>PyTorch</strong><br/><img height="60" src="https://cdn.svgporn.com/logos/pytorch.svg"></td>
+<td align="center"><strong>OpenCV</strong><br/><img height="60" src="https://cdn.svgporn.com/logos/opencv.svg"></td>
+</tr>
+</table>
+</div>
 
+---
 
+### 🔹 Data Analysis & Visualization
+<div align="left">
+<table>
+<tr>
+<td align="center"><strong>Pandas</strong><br/><img height="60" src="https://cdn.svgporn.com/logos/pandas.svg"></td>
+<td align="center"><strong>NumPy</strong><br/><img height="60" src="https://cdn.svgporn.com/logos/numpy.svg"></td>
+<td align="center"><strong>Matplotlib</strong><br/><img height="60" src="https://cdn.svgporn.com/logos/matplotlib.svg"></td>
+<td align="center"><strong>Seaborn</strong><br/><img height="60" src="https://cdn.svgporn.com/logos/seaborn-icon.svg"></td>
+<td align="center"><strong>Power BI</strong><br/><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"></td>
+<td align="center"><strong>Tableau</strong><br/><img height="60" src="https://cdn.svgporn.com/logos/tableau-icon.svg"></td>
+</tr>
+</table>
+</div>
 
-Thanks!!
+---
 
+### 🔹 Tools & Platforms
+- Git & GitHub  
+- Jupyter Notebook  
+- REST APIs  
+- Model Deployment Basics
+- Google Colab
+- Vs Code
+- Antigravity
 
+---
 
+## 🚀 What I Want To Do Next :thinking:
+- Build scalable **AI & Machine Learning systems**
+- Go deeper into **Deep Learning & NLP**
+- Strengthen **Data Structures & Algorithms**
+- Explore **MLOps & DevOps**
+- Contribute to **GSoC & Open Source AI projects**
 
+---
 
-<!---
-Balaganesh Golla/Balaganesh Golla is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📫 Reach Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bala-ganesh-golla-495a95279/)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:balaganeshgolla70@gmail.com)
+
+---
+
+⭐ *Passionate about turning data into intelligent solutions.*
