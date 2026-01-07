@@ -21,6 +21,18 @@ I am an AI/ML enthusiast and graduate from **Vellore Institute of Technology**, 
 ---
 
 ### 🔹 AI & Machine Learning
+- Logistic Regression
+- K-Nearest Neighbors (KNN)
+- Naive Bayes
+- Support Vector Machine (SVM)
+- Decision Tree Classifier
+- Random Forest Classifier
+- Gradient Boosting (GBM)
+- XGBoost
+- Linear Regression
+- K-Means Clustering
+- Principal Component Analysis (PCA)
+- Bagging & Boosting
 - Regression & Classification  
 - Clustering Techniques  
 - Natural Language Processing (NLP)  
@@ -64,7 +76,7 @@ I am an AI/ML enthusiast and graduate from **Vellore Institute of Technology**, 
 - Git & GitHub  
 - Jupyter Notebook  
 - REST APIs  
-- Model Deployment Basics
+- Flask
 - Google Colab
 - Vs Code
 - Antigravity
@@ -75,8 +87,7 @@ I am an AI/ML enthusiast and graduate from **Vellore Institute of Technology**, 
 - Build scalable **AI & Machine Learning systems**
 - Go deeper into **Deep Learning & NLP**
 - Strengthen **Data Structures & Algorithms**
-- Explore **MLOps & DevOps**
-- Contribute to **GSoC & Open Source AI projects**
+- Contribute to **Open Source AI projects**
 
 ---
 
